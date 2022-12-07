@@ -4,9 +4,9 @@
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-  }
+}
 
-.button1 {
+.button {
     border-radius: 14px;
     background-color: #2CBE00;
     padding: 0px 24px;
@@ -14,4 +14,10 @@
     font-family: simvoni;
     font-size: 32; 	
     color: #fff;
+}
+
+input[type=text] {
+    border: 2px solid black;
+    width: 90%;
+    border-radius: 10px;
 }
