@@ -1,0 +1,14 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.button1 {
+    border-radius: 14px;
+    background-color: #2CBE00;
+    padding: 0px 24px;
+    border: none;
+    font-family: simvoni;
+    font-size: 32; 	
+    color: #fff;
+}
